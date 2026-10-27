@@ -1,0 +1,5 @@
+print(type(25))
+print(type(24.7))
+print(type(True))
+print(type("Food"))
+print(type([1,2,3]))
